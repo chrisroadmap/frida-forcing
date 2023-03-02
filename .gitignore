@@ -1,3 +1,9 @@
+# OS junk
+.DS_Store
+
+# large and non-public data files
+scenario_data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

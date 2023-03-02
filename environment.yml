@@ -1,0 +1,14 @@
+name: frida-forcing
+channels:
+  - conda-forge
+dependencies:
+  - ipython
+  - matplotlib
+  - nbstripout
+  - notebook
+  - numpy
+  - openpyxl
+  - pandas
+  - scipy
+  - statsmodels
+  - tqdm
