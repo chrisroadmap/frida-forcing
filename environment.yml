@@ -1,7 +1,9 @@
 name: frida-forcing
 channels:
   - conda-forge
+  - chrisroadmap
 dependencies:
+  - fair==2.1.0
   - ipython
   - matplotlib
   - nbstripout
