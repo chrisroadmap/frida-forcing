@@ -4,6 +4,9 @@
 # large and non-public data files
 scenario_data/
 
+# plots
+plots/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
