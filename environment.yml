@@ -5,8 +5,10 @@ channels:
 dependencies:
   - fair==2.1.0
   - ipython
+  - ipywidgets
   - matplotlib
   - nbstripout
+  - netcdf4
   - notebook
   - numpy
   - openpyxl
